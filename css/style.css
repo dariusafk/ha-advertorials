@@ -1009,6 +1009,11 @@ img { max-width: 100%; height: auto; display: block; }
   .nav-main, .nav-search { display: none; }
   .hamburger { display: block; }
 
+  .header-top { padding: 12px 16px; }
+  .logo-icon { width: 28px; height: 28px; font-size: 14px; }
+  .logo-text { font-size: 1rem; }
+  .logo-tagline { font-size: 0.6rem; }
+
   .category-bar-inner { padding: 0 16px; }
 
   .hero { padding: 24px 16px; }
