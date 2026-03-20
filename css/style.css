@@ -834,8 +834,9 @@ img { max-width: 100%; height: auto; display: block; }
 
 .article-cta p {
   margin-bottom: 0.8em !important;
-  font-size: 0.92rem !important;
-  opacity: 0.9;
+  font-size: 1.25rem !important;
+  font-weight: 700;
+  opacity: 1;
   letter-spacing: 0.01em;
 }
 
